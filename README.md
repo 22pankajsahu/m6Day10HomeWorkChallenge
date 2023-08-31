@@ -6,6 +6,7 @@ This is a basic website that demonstrates how JavaScript functionality is utiliz
 
 - [Introduction](#introduction)
 - [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Author](#author)
@@ -18,6 +19,16 @@ The **Background Color Changer** is a simple web application that allows users t
 ## Demo
 
 You can see a live demo of the project [here](https://22pankajsahu.github.io/m6Day10HomeWorkChallenge/).
+
+## Screenshots
+
+Include relevant screenshots of the application here.
+
+![image](https://github.com/22pankajsahu/m6Day10HomeWorkChallenge/assets/135128502/ad80b546-0491-4d14-928d-243e40a5630a)
+
+![image](https://github.com/22pankajsahu/m6Day10HomeWorkChallenge/assets/135128502/63278959-2535-4de9-bb2f-717d4c7f3d61)
+
+
 
 ## Technologies Used
 
